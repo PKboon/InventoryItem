@@ -1,5 +1,5 @@
 # InventoryItem
-### Manage stock
+### Manage stock (Microsoft Visual Studio)
 
 * Allows user to import and export csv file
 * Allows user to create new items
